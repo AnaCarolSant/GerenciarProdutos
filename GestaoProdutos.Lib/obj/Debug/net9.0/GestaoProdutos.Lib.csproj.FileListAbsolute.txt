@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\GestaoProdutos.Lib\bin\Debug\net9.0\GestaoProdutos.Lib.deps.json
+C:\Users\user\Desktop\GestaoProdutos.Lib\bin\Debug\net9.0\GestaoProdutos.Lib.dll
+C:\Users\user\Desktop\GestaoProdutos.Lib\bin\Debug\net9.0\GestaoProdutos.Lib.pdb
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\GestaoProdutos.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\GestaoProdutos.Lib.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\GestaoProdutos.Lib.AssemblyInfo.cs
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\GestaoProdutos.Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\GestaoProdutos.Lib.dll
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\refint\GestaoProdutos.Lib.dll
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\GestaoProdutos.Lib.pdb
+C:\Users\user\Desktop\GestaoProdutos.Lib\obj\Debug\net9.0\ref\GestaoProdutos.Lib.dll

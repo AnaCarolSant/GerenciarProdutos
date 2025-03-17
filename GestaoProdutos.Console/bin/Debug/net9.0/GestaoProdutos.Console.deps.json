@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GestaoProdutos.Console/1.0.0": {
+        "dependencies": {
+          "GestaoProdutos.Lib": "1.0.0"
+        },
+        "runtime": {
+          "GestaoProdutos.Console.dll": {}
+        }
+      },
+      "GestaoProdutos.Lib/1.0.0": {
+        "runtime": {
+          "GestaoProdutos.Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoProdutos.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestaoProdutos.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
